@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AWS Infrastructure Creation using Terraform by A Security Guru
 
 Helpful Terraform Links:
@@ -200,3 +201,6 @@ This demo shows: Start up -> Infinite Loop -> LDAP Injection -> UnsatisfiedLinkE
 
   　![logo](https://github.com/k-tamura/easybuggy4django/blob/master/static/easybuggy.png)
 >>>>>>> fc97e7a24150cf445238a37a529e565a0c9bd7fb
+=======
+# DevSecops
+>>>>>>> f7398733aefcc3971503fcf739d5c879c99ef4b6
